@@ -48,7 +48,7 @@ This project considers data privacy and security, especially when dealing with s
 
 ### Error Handling
 
-The project includes robust error handling and data validation mechanisms to ensure the quality and reliability of the monitoring process. Participants will learn how to catch anomalies and address issues effectively.
+The project includes robust error handling and data validation mechanisms to ensure the quality and reliability of the monitoring process.
 
 ---
 
