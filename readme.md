@@ -23,7 +23,7 @@ The project retrieves data from a PostgreSQL server related to loan eligibility.
 ### Tech Stack
 
 - Language: `Python`
-- Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `deepchecks`, sqlalchemy, psycopg2-binary
+- Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `deepchecks`, `sqlalchemy`, `psycopg2-binary`
 - Services: `Airflow`, `Docker`, `PostgreSQL`
 
 ---
