@@ -58,16 +58,6 @@ The project discusses deployment considerations for monitoring systems in a prod
 
 ---
 
-### Key Concepts Explored
-
-1. Skills to connect Python to a PostgreSQL server.
-2. Understanding of conditional data extraction.
-3. Proficiency in missing value imputation, data rescaling, and feature engineering.
-4. Knowledge of monitoring concept drift, data drift, and model drift.
-5. Experience in deploying and orchestrating monitoring pipelines with Airflow and Docker.
-
----
-
 ### Note: This project requires the data to be present in postgres server.
 
 The data is available in code>main>dags>data>raw location.
